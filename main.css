@@ -8,25 +8,31 @@ main {
 div {
     display: flex;
     justify-content: space-evenly;
+    padding: 5pxjm mjki;
 
 }
 
 img {
     width: 170px;
     padding: 30px;
+    margin-bottom: 10px;
 
  
 }
 
 h1 {
-    width: 225px;
+    width: 170px;
     text-align: center;
     text-transform: uppercase;
     font-family: 'Montserrat', sans-serif;;
     color: coral;
+    margin: 0;
+    padding: 25px;
+  
 }
 p {
     width: 225px;
     font-family: 'Montserrat', sans-serif;
     color: dimgrey;
+    margin: 0;
 }
