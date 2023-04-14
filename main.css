@@ -11,24 +11,26 @@ div {
 
 img {
     width: 175px;
-    padding: 30px;
-    margin-bottom: 10px;
+    padding: 20px;
+    margin: 10px;
 }
 
 h1 {
-    width: 235px;
+    width: 175px;
     text-align: center;
     text-transform: uppercase;
     font-family: 'Montserrat', sans-serif;;
-    color: coral;
-    margin: 0;
-    padding-top: 30px;
-    padding-bottom: 30px;
+    color: #F34E33;
+    padding: 20px;
+    margin: 10px;
+    padding-bottom: 0;
 }
 
 p {
-    width: 225px;
+    width: 195px;
     font-family: 'Montserrat', sans-serif;
     color: dimgrey;
-    margin: 0;
+    padding: 20px;
+    margin: 10px;
+    padding-top: 5px;
 }
