@@ -27,7 +27,7 @@ Monika: [Github](https://github.com/M1r4cl38)
 
 ## ⚠️ License
 
-Distributed under the MIT License. See LICENSE.txt for more information.
+Distributed under the MIT License.
 
 ## 🔗 Other resources
 
