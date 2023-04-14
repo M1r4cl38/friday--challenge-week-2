@@ -10,19 +10,20 @@ div {
 }
 
 img {
-    width: 170px;
+    width: 175px;
     padding: 30px;
     margin-bottom: 10px;
 }
 
 h1 {
-    width: 170px;
+    width: 235px;
     text-align: center;
     text-transform: uppercase;
     font-family: 'Montserrat', sans-serif;;
     color: coral;
     margin: 0;
-    padding: 25px;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 p {
